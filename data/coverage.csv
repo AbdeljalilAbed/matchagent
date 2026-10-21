@@ -1,0 +1,81 @@
+competition_id,season_id,competition,season,country,gender,n_matches,n_teams,n_matches_360,first_date,last_date
+2,27,Premier League,2015/2016,England,male,380,20,0,2015-08-08,2016-05-17
+12,27,Serie A,2015/2016,Italy,male,380,20,0,2015-08-22,2016-05-15
+11,27,La Liga,2015/2016,Spain,male,380,20,0,2015-08-21,2016-05-15
+7,27,Ligue 1,2015/2016,France,male,377,20,0,2015-08-07,2016-05-14
+182,281,Liga F,2023/2024,Spain,female,240,16,0,2023-09-15,2024-06-16
+49,107,NWSL,2023,United States of America,female,137,12,0,2023-03-25,2023-11-12
+37,281,FA Women's Super League,2023/2024,England,female,132,12,0,2023-10-01,2024-05-18
+135,281,Frauen Bundesliga,2023/2024,Germany,female,132,12,0,2023-09-15,2024-05-20
+37,90,FA Women's Super League,2020/2021,England,female,131,12,0,2020-09-05,2021-05-09
+131,281,Serie A Women,2023/2024,Italy,female,130,10,0,2023-09-16,2024-05-19
+1238,108,Indian Super league,2021/2022,India,male,115,11,0,2021-11-19,2022-03-20
+37,4,FA Women's Super League,2018/2019,England,female,107,11,0,2018-09-09,2019-05-11
+37,42,FA Women's Super League,2019/2020,England,female,87,12,0,2019-09-07,2020-02-23
+43,106,FIFA World Cup,2022,International,male,64,32,64,2022-11-20,2022-12-18
+72,107,Women's World Cup,2023,International,female,64,32,64,2023-07-20,2023-08-20
+43,3,FIFA World Cup,2018,International,male,64,32,0,2018-06-14,2018-07-15
+72,30,Women's World Cup,2019,International,female,52,24,0,2019-06-07,2019-07-07
+1267,107,African Cup of Nations,2023,Africa,male,52,24,1,2024-01-13,2024-02-11
+55,282,UEFA Euro,2024,Europe,male,51,24,51,2024-06-14,2024-07-14
+55,43,UEFA Euro,2020,Europe,male,51,24,51,2021-06-11,2021-07-11
+2,44,Premier League,2003/2004,England,male,38,20,0,2003-08-16,2004-05-15
+11,26,La Liga,2014/2015,Spain,male,38,20,0,2014-08-24,2015-05-23
+11,23,La Liga,2011/2012,Spain,male,37,20,0,2011-08-29,2012-05-12
+11,1,La Liga,2017/2018,Spain,male,36,20,0,2017-08-20,2018-05-20
+49,3,NWSL,2018,United States of America,female,36,9,0,2018-04-15,2018-08-12
+11,21,La Liga,2009/2010,Spain,male,35,20,0,2009-09-12,2010-05-16
+11,90,La Liga,2020/2021,Spain,male,35,19,35,2020-09-27,2021-05-16
+11,2,La Liga,2016/2017,Spain,male,34,20,0,2016-08-20,2017-05-21
+9,281,1. Bundesliga,2023/2024,Germany,male,34,18,34,2023-08-19,2024-05-18
+9,27,1. Bundesliga,2015/2016,Germany,male,34,18,0,2015-08-15,2016-05-14
+11,4,La Liga,2018/2019,Spain,male,34,20,0,2018-08-18,2019-05-19
+11,42,La Liga,2019/2020,Spain,male,33,20,0,2019-09-21,2020-07-19
+11,22,La Liga,2010/2011,Spain,male,33,20,0,2010-08-29,2011-05-11
+11,24,La Liga,2012/2013,Spain,male,32,20,0,2012-08-19,2013-05-12
+7,235,Ligue 1,2022/2023,France,male,32,20,32,2022-08-06,2023-06-03
+223,282,Copa America,2024,South America,male,32,16,0,2024-06-21,2024-07-15
+11,25,La Liga,2013/2014,Spain,male,31,20,0,2013-08-18,2014-05-17
+11,41,La Liga,2008/2009,Spain,male,31,19,0,2008-08-31,2009-05-10
+53,315,UEFA Women's Euro,2025,Europe,female,31,16,31,2025-07-02,2025-07-27
+53,106,UEFA Women's Euro,2022,Europe,female,31,16,31,2022-07-06,2022-07-31
+11,40,La Liga,2007/2008,Spain,male,27,20,0,2007-08-26,2008-05-17
+7,108,Ligue 1,2021/2022,France,male,26,18,26,2021-08-29,2022-05-21
+11,39,La Liga,2006/2007,Spain,male,26,20,0,2006-08-28,2007-06-17
+11,38,La Liga,2005/2006,Spain,male,17,17,0,2005-10-01,2006-02-25
+11,37,La Liga,2004/2005,Spain,male,7,7,0,2004-10-16,2005-05-01
+43,272,FIFA World Cup,1970,International,male,6,7,0,1970-06-03,1970-06-21
+43,51,FIFA World Cup,1974,International,male,6,6,0,1974-06-19,1974-07-07
+44,107,Major League Soccer,2023,United States of America,male,6,7,6,2023-08-27,2023-10-22
+35,75,UEFA Europa League,1988/1989,Europe,male,3,4,0,1989-03-15,1989-05-03
+43,54,FIFA World Cup,1986,International,male,3,4,0,1986-06-22,1986-06-29
+43,269,FIFA World Cup,1958,International,male,2,3,0,1958-06-24,1958-06-29
+16,37,Champions League,2004/2005,Europe,male,1,2,0,2005-05-25,2005-05-25
+16,22,Champions League,2010/2011,Europe,male,1,2,0,2011-05-28,2011-05-28
+16,39,Champions League,2006/2007,Europe,male,1,2,0,2007-05-23,2007-05-23
+16,41,Champions League,2008/2009,Europe,male,1,2,0,2009-05-27,2009-05-27
+16,21,Champions League,2009/2010,Europe,male,1,2,0,2010-05-22,2010-05-22
+16,26,Champions League,2014/2015,Europe,male,1,2,0,2015-06-06,2015-06-06
+16,27,Champions League,2015/2016,Europe,male,1,2,0,2016-05-28,2016-05-28
+16,2,Champions League,2016/2017,Europe,male,1,2,0,2017-06-03,2017-06-03
+16,1,Champions League,2017/2018,Europe,male,1,2,0,2018-05-26,2018-05-26
+16,4,Champions League,2018/2019,Europe,male,1,2,0,2019-06-01,2019-06-01
+16,23,Champions League,2011/2012,Europe,male,1,2,0,2012-05-19,2012-05-19
+16,24,Champions League,2012/2013,Europe,male,1,2,0,2013-05-25,2013-05-25
+16,25,Champions League,2013/2014,Europe,male,1,2,0,2014-05-24,2014-05-24
+43,55,FIFA World Cup,1990,International,male,1,2,0,1990-06-24,1990-06-24
+43,270,FIFA World Cup,1962,International,male,1,2,0,1962-05-30,1962-05-30
+16,276,Champions League,1970/1971,Europe,male,1,2,0,1971-06-02,1971-06-02
+16,71,Champions League,1971/1972,Europe,male,1,2,0,1972-05-31,1972-05-31
+16,76,Champions League,1999/2000,Europe,male,1,2,0,1999-11-23,1999-11-23
+16,277,Champions League,1972/1973,Europe,male,1,2,0,1973-05-30,1973-05-30
+87,279,Copa del Rey,1977/1978,Spain,male,1,2,0,1978-04-19,1978-04-19
+16,44,Champions League,2003/2004,Europe,male,1,2,0,2004-05-26,2004-05-26
+87,268,Copa del Rey,1982/1983,Spain,male,1,2,0,1983-06-04,1983-06-04
+87,84,Copa del Rey,1983/1984,Spain,male,1,2,0,1984-05-05,1984-05-05
+1470,274,FIFA U20 World Cup,1979,International,male,1,2,0,1979-09-07,1979-09-07
+11,278,La Liga,1973/1974,Spain,male,1,2,0,1974-02-17,1974-02-17
+81,275,Liga Profesional,1981,Argentina,male,1,2,0,1981-04-10,1981-04-10
+81,48,Liga Profesional,1997/1998,Argentina,male,1,2,0,1997-10-25,1997-10-25
+12,86,Serie A,1986/1987,Italy,male,1,2,0,1986-11-09,1986-11-09
+116,68,North American League,1977,North and Central America,male,1,2,0,1977-08-28,1977-08-28

@@ -1,0 +1,14 @@
+# Phase 0 decision: which StatsBomb competition-seasons the project covers.
+# ids come from data/coverage.csv (see scripts/phase0_explore.py coverage).
+
+[[slices]]
+name = "worldcup2022"
+competition_id = 43
+season_id = 106
+priority = "primary"      # 64 matches, 32 teams, complete tournament, 360 data
+
+[[slices]]
+name = "ligue1_2015_16"
+competition_id = 7
+season_id = 27
+priority = "scale-up"     # 377 matches, full season; added once the primary slice works
