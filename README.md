@@ -7,9 +7,14 @@ matches, grounded in real event data, with sourced answers and a numeric evaluat
 
 ```bash
 uv sync
-uv run python scripts/phase0_explore.py coverage
+uv run python scripts/phase0_explore.py coverage      # phase 0: what the open data contains
+uv run python -m matchagent.build_db --slice worldcup2022   # phase 1: build data/matchagent.duckdb
 uv run pytest
 ```
+
+`build_db` downloads the raw JSON (~190 MB for the World Cup 2022, cached in `data/raw/`),
+builds typed DuckDB tables, runs the data-quality checks (`data/quality_report.md`) and
+exports one Parquet file per table in `data/parquet/`.
 
 ## Data and attribution
 
