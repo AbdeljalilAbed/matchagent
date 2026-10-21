@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.env
+# raw StatsBomb JSON is re-downloadable and large
+data/raw/
+*.duckdb
+*.parquet
+runs/
