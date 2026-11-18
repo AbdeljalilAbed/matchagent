@@ -2,7 +2,7 @@
 from __future__ import annotations
 
 import math
-from typing import Annotated
+from typing import Annotated, Literal
 
 from pydantic import (
     AfterValidator,
@@ -137,3 +137,20 @@ class MatchList(Strict):
     matches: list[MatchSummary] = Field(max_length=MAX_ROWS)
     total: Count = Field(description="Number of matches found, even if the list is truncated.")
     truncated: bool = Field(description="True if more matches exist than the ones listed.")
+
+
+class MetricDefinition(Strict):
+    name: str
+    definition: str
+
+
+class ToolError(Strict):
+    """Returned (as data, not raised) when a tool cannot do what was asked.
+
+    error: "not_found" = an id does not exist; "invalid_argument" = a value is not allowed.
+    hint: what the LLM should do next to recover.
+    """
+
+    error: Literal["not_found", "invalid_argument"]
+    message: str
+    hint: str | None = None
